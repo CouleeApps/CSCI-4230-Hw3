@@ -1,0 +1,16 @@
+Cryptography and Network Security: Homework 3
+Glenn Smith
+
+m = 10011100000100001100
+C(m) = {2, 0, 12, 14, 4, 139680};
+D(C(m)) = 10011100000100001100
+
+To build:
+
+    cmake . && make
+
+To run:
+
+    ./Crypto3
+
+Parameters are hardcoded because that's all I'm required to do :)
